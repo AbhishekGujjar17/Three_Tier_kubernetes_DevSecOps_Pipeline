@@ -41,8 +41,6 @@ The workflow is structured into the following key stages:
 
 ### Clone the Repository
 
-Clone the repository to your local machine:
-
 ```bash
 git clone https://github.com/AbhishekGujjar17/Three_Tier_kubernetes_DevSecOps_Pipeline.git.
 ```
@@ -145,7 +143,7 @@ Navigate to the `Jenkins-Server-TF` terraform directory and execute the followin
 
 ### Access the Application
 
-Retrieve the ALB DNS from AWS console and access the application in your browser.
+- Retrieve the ALB DNS from AWS console and access the application in your browser.
 
 ## Cleanup
 
